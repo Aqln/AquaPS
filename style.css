@@ -1,0 +1,133 @@
+.up {
+    text-align: center; 
+    border-radius: 10px;
+    backdrop-filter: solid;
+    background-color: rgba(36, 41, 107, 0.445);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: aliceblue;
+}
+.about {
+    backdrop-filter: solid;
+    background-color: rgba(36, 41, 107, 0.445);
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: aliceblue;
+}
+.list {
+    backdrop-filter: solid;
+    background-color: rgba(36, 41, 107, 0.445);
+    border-radius: 10px;
+    max-width: 20%;
+    width: 20%;
+    display: inline-block;	
+    min-height: 100px;
+    max-height: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: aliceblue;
+}
+.list-2 {
+    margin-top: 10px;
+    backdrop-filter: solid;
+    background-color: rgba(36, 41, 107, 0.445);
+    border-radius: 10px;
+    max-width: 70%;
+    width: 60%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: aliceblue;
+}
+.rules {
+    backdrop-filter: solid;
+    background-color: rgba(36, 41, 107, 0.445);
+    border-radius: 10px;
+    max-width: 79%;
+    width: 79%;
+    float: right;
+    height: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    color: aliceblue;
+}
+.rules2 {
+    backdrop-filter: solid;
+    background-color: rgba(36, 41, 107, 0.445);
+    border-radius: 10px;
+    max-width: 79%;
+    width: 79%;
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    color: aliceblue;
+}
+.end {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    color: aliceblue;
+}
+a {
+    text-decoration: none;
+    color: rgb(174, 169, 224);
+}
+
+.up-m {
+    text-align: center; 
+    border-radius: 10px;
+    backdrop-filter: solid;
+    background-color: rgba(77, 50, 20, 0.384);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: aliceblue;
+}
+.about-m {
+    backdrop-filter: solid;
+    background-color: rgba(77, 50, 20, 0.384);
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: aliceblue;
+}
+.list-m {
+    backdrop-filter: solid;
+    background-color: rgba(77, 50, 20, 0.384);
+    border-radius: 10px;
+    max-width: 20%;
+    width: 20%;
+    display: inline-block;	
+    height: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: aliceblue;
+}
+.rules-m {
+    backdrop-filter: solid;
+    background-color: rgba(77, 50, 20, 0.384);
+    border-radius: 10px;
+    max-width: 79%;
+    width: 79%;
+    float: right;
+    height: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    color: aliceblue;
+}
+.rules2-m {
+    backdrop-filter: solid;
+    background-color: rgba(77, 50, 20, 0.384);
+    border-radius: 10px;
+    max-width: 79%;
+    width: 79%;
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    color: aliceblue;
+}
+.end-m {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    color: aliceblue;
+}
